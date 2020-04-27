@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head> 
+	<title>my color lists</title>
+</head>
+<body>
+	<h1> COLOR LISTS</h1>
+	<ol>
+		<li>Red</li>
+		<li>Yellow</li>
+		<li>Orange</li>
+		    <ul>
+			      <li>Marigold</li>
+		    </ul>
+	</ol>
+</body>
+</html>
